@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "princesszoomloop_0000.png",
+	"frame": {"x":1491,"y":1153,"w":488,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":488,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0001.png",
+	"frame": {"x":501,"y":1153,"w":493,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":493,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0002.png",
+	"frame": {"x":1009,"y":577,"w":498,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":498,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0003.png",
+	"frame": {"x":1,"y":577,"w":502,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":502,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0004.png",
+	"frame": {"x":510,"y":1,"w":505,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":505,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0005.png",
+	"frame": {"x":1,"y":1,"w":507,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":507,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0006.png",
+	"frame": {"x":1017,"y":1,"w":505,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":505,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0007.png",
+	"frame": {"x":505,"y":577,"w":502,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":502,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0008.png",
+	"frame": {"x":1,"y":1153,"w":498,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":498,"h":574},
+	"sourceSize": {"w":509,"h":576}
+},
+{
+	"filename": "princesszoomloop_0009.png",
+	"frame": {"x":996,"y":1153,"w":493,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":493,"h":574},
+	"sourceSize": {"w":509,"h":576}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girlloop.png",
+	"format": "RGBA8888",
+	"size": {"w":1980,"h":1728},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5402e537ae0c7d7671606480bade44af:f3e109e7b694bf618346e307e44c277b:9349da6b1fb80685078ca77a58271479$"
+}
+}

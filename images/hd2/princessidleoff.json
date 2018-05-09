@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "Idle Off_00.png",
+	"frame": {"x":1,"y":1,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_01.png",
+	"frame": {"x":215,"y":1,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_02.png",
+	"frame": {"x":1,"y":391,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_03.png",
+	"frame": {"x":215,"y":391,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_04.png",
+	"frame": {"x":1,"y":781,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_05.png",
+	"frame": {"x":215,"y":781,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_06.png",
+	"frame": {"x":1,"y":1171,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_07.png",
+	"frame": {"x":215,"y":1171,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_08.png",
+	"frame": {"x":1,"y":1561,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_09.png",
+	"frame": {"x":215,"y":1561,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+},
+{
+	"filename": "Idle Off_10.png",
+	"frame": {"x":1,"y":1,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":212,"h":388},
+	"sourceSize": {"w":214,"h":394}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princessidleoff.png",
+	"format": "RGBA8888",
+	"size": {"w":428,"h":1950},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:45e87a47acf92ab88df148bf631823c8:7e6d3a1be38e285537410b34642420cc:dc72cbb2ea94b3e45938fa51be03ded6$"
+}
+}

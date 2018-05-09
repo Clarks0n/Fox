@@ -1,0 +1,164 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="Phaser App">
+
+    <meta name="full-screen" content="yes"/>
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width" />
+
+
+    <!-- PUREMVC LIBRARY -->
+    <script type="text/javascript" src="src/libs/puremvc-1.0.1.min.js"></script>
+
+
+    <!-- APPLICATION (VIEW/CONTROLLER RELATED) CONSTANTS -->
+    <script type="text/javascript" src="src/AppConstants.js"></script>
+    <script type="text/javascript" src="src/SlotsEvents.js"></script>
+
+
+    <!-- APPLICATION FACADE -->
+    <script type="text/javascript" src="src/AppFacade.js"></script>
+
+
+    <!-- PROXYS -->
+    <script type="text/javascript" src="src/model/proxy/GameProxy.js"></script>
+    <script type="text/javascript" src="src/model/proxy/PlayerProxy.js"></script>
+    <script type="text/javascript" src="src/model/proxy/SystemConfigProxy.js"></script>
+
+
+    <!-- COMMANDS -->
+    <script type="text/javascript" src="src/control/StartupCommand.js"></script>
+    <script type="text/javascript" src="src/control/GameCommand.js"></script>
+    <script type="text/javascript" src="src/control/PrepControllerCommand.js"></script>
+    <script type="text/javascript" src="src/control/PrepModelCommand.js"></script>
+    <script type="text/javascript" src="src/control/PrepViewCommand.js"></script>
+
+    <!-- MOBILE -->
+    <script type="text/javascript" src="src/view/phaserview/class/ButtonMobileClass.js"></script>
+    <!-- <script type="text/javascript" src="src/view/phaserview/class/ButtonMobileClass2.js"></script> -->
+
+    <!-- VIEW COMPONENTS -->
+    <script type="text/javascript" src="src/view/phaserview/state/Boot.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/state/Preloader.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/state/Intro.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/state/Gameplay.js"></script>
+    <!-- <script type="text/javascript" src="src/view/phaserview/state/Gameplay2.js"></script> -->
+
+    <script type="text/javascript" src="src/view/phaserview/state/SoundClass.js"></script>
+
+    <script type="text/javascript" src="src/view/phaserview/class/BackgroundClass.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/LogoClass.js"></script>
+
+    <script type="text/javascript" src="src/view/phaserview/class/ButtonClass.js"></script>
+    <!-- <script type="text/javascript" src="src/view/phaserview/class/ButtonClass2.js"></script> -->
+    <!-- <script type="text/javascript" src="src/view/phaserview/class/ButtonClass3.js"></script> -->
+    <!-- <script type="text/javascript" src="src/view/phaserview/class/ButtonClass4.js"></script> -->
+    <script type="text/javascript" src="src/view/phaserview/class/PaytableClass.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/InformationClass.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/InformationClass2.js"></script>
+
+    <script type="text/javascript" src="src/view/phaserview/class/FrameClass.js"></script>
+
+    <script type="text/javascript" src="src/view/phaserview/class/ReelClass.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/ReelColumn.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/ReelSymbol.js"></script>
+
+    <script type="text/javascript" src="src/view/phaserview/class/WinBanner.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/WinLine.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/WinShadow.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/WinSquare.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/WinValue.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/WinFeature.js"></script>
+
+    <script type="text/javascript" src="src/view/phaserview/class/FoxNineTails.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxNineTails2.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxNineTailsPor.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxNineTailsOn.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxNineTailsCancel.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxFreeGames.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxFreeGames2.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxRandomPrize.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxRandomPrize2.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxRandomPrize3.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxSelectScreen.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxSideBar.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxSideBar2.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxSideBarLandscape.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxSideBarPortrait.js"></script>
+    <script type="text/javascript" src="src/view/phaserview/class/FoxWildSymbol.js"></script>
+
+
+    <!-- slotsMath-->
+    <script type="text/javascript" src="src/model/slotsMath/JudgementHelperUtil.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/L2RJudgement.js"></script>
+
+    <script type="text/javascript" src="src/model/slotsMath/LineWin.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/ScatterWin.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SlotsGameJudgement.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SlotsGameRules.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SlotsGameWin.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SlotSymbol.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SymbolCoordinate.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/WinInfo.js"></script>
+
+
+    <!-- MEDIATORS -->
+    <script type="text/javascript" src="src/view/mediator/InitMediator.js"></script>
+    <script type="text/javascript" src="src/view/mediator/BootMediator.js"></script>
+    <script type="text/javascript" src="src/view/mediator/GameplayMediator.js"></script>
+
+
+    <!--utils-->
+    <script type="text/javascript" src="src/utils/Alert.js"></script>
+    <script type="text/javascript" src="src/libs/clone.js"></script>
+    <script type="text/javascript" src="JUnitTest.js"></script>
+
+
+    <!--game-->
+    <script type="text/javascript" src="src/GlobalClass.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SlotsGame9Fox.js"></script>
+    <script type="text/javascript" src="src/model/slotsMath/SpinService.js"></script>
+
+
+    <link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
+    <script type="text/javascript" src="js/phaser.min.js"></script>
+    <script type="text/javascript" src="js/phaser-input.min.js"></script>
+    <script type="text/javascript" src="js/numeral.min.js"></script>
+
+    <link rel="stylesheet" href="css/stylesheet.css" type="text/css" charset="utf-8" />
+    <style>
+        body {
+            background: url('images/blur_bg.png') no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            min-height: 720px;
+        }
+    </style>
+</head>
+
+
+<body style="background-color:#000000">
+    <div style="font-family:'Gotham';"</div>
+    <div id="orientation"></div>
+    <div id="slot"></div>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            AppFacadeInstance = AppFacade.getInstance(AppConstants.CORE_NAME);
+            AppFacadeInstance.startup();
+        });
+    </script>
+
+</body>
+
+</html>

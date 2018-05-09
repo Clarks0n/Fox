@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "Fail_126.png",
+	"frame": {"x":1158,"y":1,"w":212,"h":389},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":98,"w":212,"h":389},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_127.png",
+	"frame": {"x":384,"y":1,"w":249,"h":473},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":59,"w":249,"h":473},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_128.png",
+	"frame": {"x":633,"y":476,"w":256,"h":469},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":63,"w":256,"h":469},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_129.png",
+	"frame": {"x":663,"y":1452,"w":262,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":262,"h":468},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_130.png",
+	"frame": {"x":632,"y":981,"w":263,"h":469},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":63,"w":263,"h":469},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_131.png",
+	"frame": {"x":891,"y":472,"w":265,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":265,"h":468},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_132.png",
+	"frame": {"x":1,"y":1510,"w":380,"h":500},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":380,"h":500},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_133.png",
+	"frame": {"x":1,"y":1,"w":381,"h":501},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":381,"h":501},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_134.png",
+	"frame": {"x":1,"y":504,"w":379,"h":501},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":379,"h":501},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_135.png",
+	"frame": {"x":1,"y":1007,"w":378,"h":501},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":378,"h":501},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_136.png",
+	"frame": {"x":893,"y":1,"w":263,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":263,"h":468},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_137.png",
+	"frame": {"x":897,"y":942,"w":262,"h":468},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":262,"h":468},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_138.png",
+	"frame": {"x":927,"y":1412,"w":261,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":65,"w":261,"h":467},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_139.png",
+	"frame": {"x":635,"y":1,"w":256,"h":469},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":63,"w":256,"h":469},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_140.png",
+	"frame": {"x":383,"y":1497,"w":278,"h":472},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":60,"w":278,"h":472},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_141.png",
+	"frame": {"x":381,"y":1007,"w":249,"h":488},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":44,"w":249,"h":488},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_142.png",
+	"frame": {"x":382,"y":504,"w":249,"h":475},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":57,"w":249,"h":475},
+	"sourceSize": {"w":402,"h":585}
+},
+{
+	"filename": "Fail_143.png",
+	"frame": {"x":1158,"y":392,"w":212,"h":389},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":98,"w":212,"h":389},
+	"sourceSize": {"w":402,"h":585}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princessidlefail.png",
+	"format": "RGBA8888",
+	"size": {"w":1371,"h":2011},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4c062e4fe4abe9d38817b6e73550056f:76075095a1a1c5da6456780d6542fb35:fb61fbadfeaf15110892f11cbe8c45fa$"
+}
+}

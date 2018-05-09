@@ -1,0 +1,132 @@
+{"frames": [
+
+{
+	"filename": "Princess Fail Cut_01.png",
+	"frame": {"x":1631,"y":1,"w":331,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":331,"h":539},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_02.png",
+	"frame": {"x":908,"y":550,"w":345,"h":546},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":20,"w":345,"h":546},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_03.png",
+	"frame": {"x":1615,"y":1088,"w":356,"h":540},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":356,"h":540},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_04.png",
+	"frame": {"x":1255,"y":547,"w":358,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":358,"h":542},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_05.png",
+	"frame": {"x":563,"y":1,"w":359,"h":547},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":359,"h":547},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_06.png",
+	"frame": {"x":1,"y":1,"w":560,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":560,"h":576},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_07.png",
+	"frame": {"x":1,"y":579,"w":560,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":560,"h":576},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_08.png",
+	"frame": {"x":1,"y":1157,"w":560,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":560,"h":576},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_09.png",
+	"frame": {"x":908,"y":1098,"w":359,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":359,"h":542},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_10.png",
+	"frame": {"x":1615,"y":545,"w":358,"h":541},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":358,"h":541},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_11.png",
+	"frame": {"x":1274,"y":1,"w":355,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":23,"w":355,"h":542},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_12.png",
+	"frame": {"x":924,"y":1,"w":348,"h":544},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":348,"h":544},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_13.png",
+	"frame": {"x":563,"y":1101,"w":343,"h":547},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":343,"h":547},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_14.png",
+	"frame": {"x":563,"y":550,"w":343,"h":549},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":343,"h":549},
+	"sourceSize": {"w":560,"h":576}
+},
+{
+	"filename": "Princess Fail Cut_15.png",
+	"frame": {"x":1269,"y":1091,"w":331,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":21,"w":331,"h":539},
+	"sourceSize": {"w":560,"h":576}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girlfail.png",
+	"format": "RGBA8888",
+	"size": {"w":1974,"h":1734},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7099e6d9bbf87cde390d7998e0522a9d:2f241949436f83cdbac3d87fe83707b6:eda4b0ff18df27a21719d1ee7317d855$"
+}
+}

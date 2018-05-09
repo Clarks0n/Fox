@@ -1,0 +1,60 @@
+{"frames": [
+
+{
+	"filename": "FoxyPrincess_Zoom_20.png",
+	"frame": {"x":1081,"y":723,"w":521,"h":653},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":67,"w":521,"h":653},
+	"sourceSize": {"w":586,"h":720}
+},
+{
+	"filename": "FoxyPrincess_Zoom_21.png",
+	"frame": {"x":542,"y":723,"w":537,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":537,"h":720},
+	"sourceSize": {"w":586,"h":720}
+},
+{
+	"filename": "FoxyPrincess_Zoom_22.png",
+	"frame": {"x":1,"y":723,"w":539,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":539,"h":720},
+	"sourceSize": {"w":586,"h":720}
+},
+{
+	"filename": "FoxyPrincess_Zoom_23.png",
+	"frame": {"x":589,"y":1,"w":574,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":574,"h":720},
+	"sourceSize": {"w":586,"h":720}
+},
+{
+	"filename": "FoxyPrincess_Zoom_24.png",
+	"frame": {"x":1,"y":1,"w":586,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":586,"h":720},
+	"sourceSize": {"w":586,"h":720}
+},
+{
+	"filename": "FoxyPrincess_Zoom_25.png",
+	"frame": {"x":1165,"y":1,"w":261,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":0,"w":261,"h":720},
+	"sourceSize": {"w":586,"h":720}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princesszoom.png",
+	"format": "RGBA8888",
+	"size": {"w":1603,"h":1444},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:431b0a5ac22de6890d4442aed62cdbb7:5f9515923700e8506a9b2df4be20582e:b6a71c357a82467e8e9355868ac7d60e$"
+}
+}

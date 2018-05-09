@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "continue mouseover.png",
+	"frame": {"x":2,"y":51,"w":209,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":47},
+	"sourceSize": {"w":209,"h":47}
+},
+{
+	"filename": "continue normal.png",
+	"frame": {"x":2,"y":2,"w":209,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":47},
+	"sourceSize": {"w":209,"h":47}
+},
+{
+	"filename": "continue press.png",
+	"frame": {"x":2,"y":100,"w":191,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":191,"h":43},
+	"sourceSize": {"w":209,"h":47}
+},
+{
+	"filename": "frame continue.png",
+	"frame": {"x":2,"y":145,"w":348,"h":75},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":348,"h":75},
+	"sourceSize": {"w":348,"h":75}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "buttonintro.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e73eef0b3d38823794a8246b40c0e8e2$"
+}
+}

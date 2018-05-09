@@ -1,0 +1,188 @@
+{"frames": [
+
+{
+	"filename": "FeatureFX_09.png",
+	"frame": {"x":831,"y":264,"w":156,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":167,"w":156,"h":147},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_10.png",
+	"frame": {"x":793,"y":1678,"w":204,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":108,"w":204,"h":256},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_11.png",
+	"frame": {"x":548,"y":1678,"w":243,"h":312},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":86,"w":243,"h":312},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_12.png",
+	"frame": {"x":548,"y":1322,"w":282,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":70,"w":282,"h":354},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_13.png",
+	"frame": {"x":542,"y":931,"w":292,"h":389},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":49,"w":292,"h":389},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_14.png",
+	"frame": {"x":477,"y":512,"w":288,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":288,"h":417},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_15.png",
+	"frame": {"x":1,"y":1565,"w":283,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":283,"h":454},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_16.png",
+	"frame": {"x":553,"y":1,"w":276,"h":484},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":276,"h":484},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_17.png",
+	"frame": {"x":277,"y":1,"w":274,"h":509},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":274,"h":509},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_18.png",
+	"frame": {"x":1,"y":1,"w":274,"h":527},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":274,"h":527},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_19.png",
+	"frame": {"x":1,"y":530,"w":272,"h":515},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":37,"w":272,"h":515},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_20.png",
+	"frame": {"x":1,"y":1047,"w":262,"h":516},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":262,"h":516},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_21.png",
+	"frame": {"x":265,"y":1047,"w":275,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":112,"w":275,"h":440},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_22.png",
+	"frame": {"x":286,"y":1489,"w":260,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":127,"w":260,"h":425},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_23.png",
+	"frame": {"x":767,"y":487,"w":226,"h":359},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":193,"w":226,"h":359},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_24.png",
+	"frame": {"x":275,"y":530,"w":200,"h":426},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":126,"w":200,"h":426},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_25.png",
+	"frame": {"x":1,"y":2021,"w":23,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":488,"w":23,"h":19},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_26.png",
+	"frame": {"x":265,"y":1489,"w":7,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":491,"w":7,"h":14},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_27.png",
+	"frame": {"x":831,"y":1,"w":165,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":129,"w":165,"h":261},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_28.png",
+	"frame": {"x":836,"y":1109,"w":156,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":137,"w":156,"h":250},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_29.png",
+	"frame": {"x":836,"y":848,"w":156,"h":259},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":131,"w":156,"h":259},
+	"sourceSize": {"w":305,"h":552}
+},
+{
+	"filename": "FeatureFX_30.png",
+	"frame": {"x":832,"y":1361,"w":153,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":148,"w":153,"h":251},
+	"sourceSize": {"w":305,"h":552}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princessfeaturefx.png",
+	"format": "RGBA8888",
+	"size": {"w":998,"h":2041},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c65ce16040d06e9525280441844f59e2:989426dfef0c26efb83c85e8c025ed4f:5f4a52bb9fb34914de5beef2ad958dca$"
+}
+}

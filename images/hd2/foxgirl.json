@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "princess_0000.png",
+	"frame": {"x":423,"y":566,"w":414,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":1,"w":414,"h":562},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0001.png",
+	"frame": {"x":1258,"y":560,"w":416,"h":560},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":3,"w":416,"h":560},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0002.png",
+	"frame": {"x":844,"y":1127,"w":418,"h":559},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":5,"w":418,"h":559},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0003.png",
+	"frame": {"x":423,"y":1130,"w":419,"h":557},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":419,"h":557},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0004.png",
+	"frame": {"x":1,"y":1132,"w":420,"h":556},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":8,"w":420,"h":556},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0005.png",
+	"frame": {"x":849,"y":1,"w":422,"h":557},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":422,"h":557},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0006.png",
+	"frame": {"x":425,"y":1,"w":422,"h":560},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":422,"h":560},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0007.png",
+	"frame": {"x":1,"y":1,"w":422,"h":563},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":1,"w":422,"h":563},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0008.png",
+	"frame": {"x":1,"y":566,"w":420,"h":564},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":420,"h":564},
+	"sourceSize": {"w":427,"h":564}
+},
+{
+	"filename": "princess_0009.png",
+	"frame": {"x":839,"y":563,"w":417,"h":562},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":1,"w":417,"h":562},
+	"sourceSize": {"w":427,"h":564}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "foxgirl.png",
+	"format": "RGBA8888",
+	"size": {"w":1675,"h":1689},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f4b9173f0e3f5c45589444e2dd0cc9ba:9a22f7426c8f6a5e80e1196625a4bd3b:c54adab2fa8849725be45ed4d3a32c98$"
+}
+}

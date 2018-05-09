@@ -1,0 +1,236 @@
+{"frames": [
+
+{
+	"filename": "autospin_button.png",
+	"frame": {"x":1745,"y":1211,"w":240,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":131},
+	"sourceSize": {"w":240,"h":131}
+},
+{
+	"filename": "autospin_popup.png",
+	"frame": {"x":1445,"y":807,"w":298,"h":536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":536},
+	"sourceSize": {"w":298,"h":536}
+},
+{
+	"filename": "bar_meter.png",
+	"frame": {"x":459,"y":1371,"w":723,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":723,"h":12},
+	"sourceSize": {"w":723,"h":12}
+},
+{
+	"filename": "bar_meter_frame.png",
+	"frame": {"x":459,"y":1385,"w":723,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":723,"h":12},
+	"sourceSize": {"w":723,"h":12}
+},
+{
+	"filename": "bet_setting_portrait.png",
+	"frame": {"x":1,"y":1,"w":720,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1280},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "bet_setting_screen.png",
+	"frame": {"x":723,"y":1,"w":1280,"h":679},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":679},
+	"sourceSize": {"w":1280,"h":679}
+},
+{
+	"filename": "button_close.png",
+	"frame": {"x":1512,"y":1472,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+},
+{
+	"filename": "button_option.png",
+	"frame": {"x":1512,"y":1410,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+{
+	"filename": "button_quickspin_off.png",
+	"frame": {"x":1621,"y":1345,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+{
+	"filename": "button_quickspin_on.png",
+	"frame": {"x":198,"y":1564,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+{
+	"filename": "button_sidebet_off.png",
+	"frame": {"x":1375,"y":1345,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+{
+	"filename": "button_sidebet_on.png",
+	"frame": {"x":1375,"y":1482,"w":135,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":135},
+	"sourceSize": {"w":135,"h":135}
+},
+{
+	"filename": "button_skip_0000.png",
+	"frame": {"x":1,"y":1335,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":227},
+	"sourceSize": {"w":227,"h":227}
+},
+{
+	"filename": "button_skip_0001.png",
+	"frame": {"x":230,"y":1335,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":227},
+	"sourceSize": {"w":227,"h":227}
+},
+{
+	"filename": "button_slider.png",
+	"frame": {"x":151,"y":1564,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":45},
+	"sourceSize": {"w":45,"h":45}
+},
+{
+	"filename": "button_sound_off.png",
+	"frame": {"x":1577,"y":1345,"w":42,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":55},
+	"sourceSize": {"w":69,"h":55}
+},
+{
+	"filename": "button_sound_on.png",
+	"frame": {"x":80,"y":1564,"w":69,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":55},
+	"sourceSize": {"w":69,"h":55}
+},
+{
+	"filename": "button_spin_0000.png",
+	"frame": {"x":459,"y":1399,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":227},
+	"sourceSize": {"w":227,"h":227}
+},
+{
+	"filename": "button_spin_0001.png",
+	"frame": {"x":688,"y":1399,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":227},
+	"sourceSize": {"w":227,"h":227}
+},
+{
+	"filename": "button_stop_0000.png",
+	"frame": {"x":917,"y":1399,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":227},
+	"sourceSize": {"w":227,"h":227}
+},
+{
+	"filename": "button_stop_0001.png",
+	"frame": {"x":1146,"y":1399,"w":227,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":227},
+	"sourceSize": {"w":227,"h":227}
+},
+{
+	"filename": "frame_button.png",
+	"frame": {"x":1745,"y":807,"w":257,"h":402},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":402},
+	"sourceSize": {"w":257,"h":402}
+},
+{
+	"filename": "hud.png",
+	"frame": {"x":723,"y":682,"w":1280,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":123},
+	"sourceSize": {"w":1280,"h":123}
+},
+{
+	"filename": "hud_portrait.png",
+	"frame": {"x":723,"y":807,"w":720,"h":527},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":527},
+	"sourceSize": {"w":720,"h":527}
+},
+{
+	"filename": "info_box.png",
+	"frame": {"x":459,"y":1336,"w":804,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":804,"h":33},
+	"sourceSize": {"w":804,"h":33}
+},
+{
+	"filename": "info_box_portrait.png",
+	"frame": {"x":1,"y":1283,"w":683,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":683,"h":50},
+	"sourceSize": {"w":683,"h":50}
+},
+{
+	"filename": "info_button.png",
+	"frame": {"x":1512,"y":1345,"w":63,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":63},
+	"sourceSize": {"w":63,"h":63}
+},
+{
+	"filename": "option_button.png",
+	"frame": {"x":1,"y":1564,"w":77,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":55},
+	"sourceSize": {"w":77,"h":55}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bottommobile.png",
+	"format": "RGBA8888",
+	"size": {"w":2004,"h":1627},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:61933629c7472609a64f2cb7f83c5cf2:647a703743abbec1b5df6d2fbf58b968:0d3d512e9c7e70f0ba0fac3f14e66152$"
+}
+}

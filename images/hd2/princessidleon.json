@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "Idle_On_63.png",
+	"frame": {"x":789,"y":1272,"w":212,"h":388},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":233,"w":212,"h":388},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_64.png",
+	"frame": {"x":803,"y":649,"w":212,"h":621},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":621},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_65.png",
+	"frame": {"x":347,"y":1272,"w":212,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":646},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_66.png",
+	"frame": {"x":693,"y":1,"w":338,"h":646},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":338,"h":646},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_67.png",
+	"frame": {"x":1,"y":1,"w":344,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":344,"h":646},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_68.png",
+	"frame": {"x":347,"y":1,"w":344,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":344,"h":646},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_69.png",
+	"frame": {"x":1,"y":649,"w":344,"h":646},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":344,"h":646},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_70.png",
+	"frame": {"x":1,"y":1297,"w":344,"h":640},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":344,"h":640},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_71.png",
+	"frame": {"x":561,"y":1272,"w":226,"h":622},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":622},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_72.png",
+	"frame": {"x":588,"y":649,"w":213,"h":621},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":621},
+	"sourceSize": {"w":344,"h":646}
+},
+{
+	"filename": "Idle_On_73.png",
+	"frame": {"x":347,"y":649,"w":239,"h":621},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":621},
+	"sourceSize": {"w":344,"h":646}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princessidleon.png",
+	"format": "RGBA8888",
+	"size": {"w":1032,"h":1938},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:57f32a6e362904c913394215a3e8e20b:bb0f287fbd26550936f633add3d2cdc6:5d474ec5f6260b4c48f8bc823b0e2ea0$"
+}
+}

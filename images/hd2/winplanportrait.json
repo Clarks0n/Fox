@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "foxy-logo.png",
+	"frame": {"x":1,"y":1283,"w":411,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":411,"h":50},
+	"sourceSize": {"w":411,"h":50}
+},
+{
+	"filename": "potrait-winplan-BG.jpg",
+	"frame": {"x":1,"y":1,"w":720,"h":1280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1280},
+	"sourceSize": {"w":720,"h":1280}
+},
+{
+	"filename": "potrait-winplan1.png",
+	"frame": {"x":1319,"y":920,"w":361,"h":871},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":871},
+	"sourceSize": {"w":361,"h":871}
+},
+{
+	"filename": "potrait-winplan2.png",
+	"frame": {"x":1319,"y":1,"w":466,"h":917},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":917},
+	"sourceSize": {"w":466,"h":917}
+},
+{
+	"filename": "potrait-winplan3.png",
+	"frame": {"x":723,"y":1,"w":594,"h":603},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":594,"h":603},
+	"sourceSize": {"w":594,"h":603}
+},
+{
+	"filename": "potrait-winplan4.png",
+	"frame": {"x":723,"y":606,"w":594,"h":603},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":594,"h":603},
+	"sourceSize": {"w":594,"h":603}
+},
+{
+	"filename": "potrait-winplan5.png",
+	"frame": {"x":723,"y":1211,"w":594,"h":603},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":594,"h":603},
+	"sourceSize": {"w":594,"h":603}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winplanportrait.png",
+	"format": "RGBA8888",
+	"size": {"w":1786,"h":1815},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:49cb1cf2bc74c8acec86e36b875ceff0:a7ae8dae38bfd04b2b43c6eb2e367d60:216f87d02c22a86e5176d14386715272$"
+}
+}

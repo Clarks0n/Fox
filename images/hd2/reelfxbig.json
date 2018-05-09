@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "reelfx_big_0000.png",
+	"frame": {"x":1,"y":1,"w":590,"h":590},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":590,"h":590},
+	"sourceSize": {"w":590,"h":590}
+},
+{
+	"filename": "reelfx_big_0001.png",
+	"frame": {"x":593,"y":1,"w":590,"h":590},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":590,"h":590},
+	"sourceSize": {"w":590,"h":590}
+},
+{
+	"filename": "reelfx_big_0002.png",
+	"frame": {"x":1,"y":593,"w":590,"h":590},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":590,"h":590},
+	"sourceSize": {"w":590,"h":590}
+},
+{
+	"filename": "reelfx_big_0003.png",
+	"frame": {"x":1,"y":1185,"w":590,"h":589},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":590,"h":589},
+	"sourceSize": {"w":590,"h":590}
+},
+{
+	"filename": "reelfx_big_0004.png",
+	"frame": {"x":593,"y":593,"w":590,"h":590},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":590,"h":590},
+	"sourceSize": {"w":590,"h":590}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reelfxbig.png",
+	"format": "RGBA8888",
+	"size": {"w":1184,"h":1775},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d6dd543b9c5459c582ddb4078b96b059:72738d8de8ad33ed38233bfbfcac1d60:dc841c52cc8bfbc18f33a738363e1401$"
+}
+}

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<!--English -->
+	<general>
+		<totalbet>TOTAL BET</totalbet>
+		<balance>BALANCE</balance>
+		<bet>BET</bet>
+		<coin>COIN VALUE</coin>
+	</general>
+
+	<button>
+		<spin>SPIN</spin>
+		<skip>SKIP</skip>
+		<stop>STOP</stop>
+		<autoplay>AUTO PLAY</autoplay>
+		<maxbet>MAX BET</maxbet>
+	</button>
+
+	<information>
+		<infospin>Good Luck</infospin>
+		<infomaxbet>Max Bet Reached</infomaxbet>
+		<infonocoin>Not Enough Credit</infonocoin>
+		<infonowin>I feel your luck is about to change</infonowin>
+		<infowin1>Nice spin</infowin1>
+		<infowin2>Nice spin</infowin2>
+		<infowin3>That's a nice win!</infowin3>
+		<infowin4>Jackpot!</infowin4>
+		<infowin5>Hand pay !! Someone call the attendant please!</infowin5>
+		<infoidle1>Real Slots. Real Players. Real Deal.</infoidle1>
+		<infoidle2>Press Spin to Play.</infoidle2>
+		<infoidle3>#WILD Subtitutes for all symbols except #SCATTER</infoidle3>
+		<infoidle4>3 #SCATTER triggers random bonus features</infoidle4>
+	</information>
+
+	<scatterbanner>
+		<congratulations>CONGRATULATIONS</congratulations>
+		<youwon>YOU WON</youwon>
+		<freegames>FREE GAMES</freegames>
+		<presstostart>Press To Start</presstostart>
+		<start>START</start>
+		<endoftime>END OF TIME</endoftime>
+		<feature>FEATURE</feature>
+	</scatterbanner>
+
+	<winXbanner>
+		<allwin>ALL WIN</allwin>
+	</winXbanner>
+
+	<wintotal>
+		<totalwin>TOTAL WIN</totalwin>
+		<collect>COLLECT</collect>
+	</wintotal>
+
+	<multiply>
+		<page id="1">
+			<multi1>1 #MULTIPLY1 AWARDS 1 FREE GAME</multi1>
+			<multi2>WITH ALL WINS x2</multi2>
+		</page>
+		<page id="2">
+			<multi1>1 #MULTIPLY2 AWARDS 1 FREE GAME</multi1>
+			<multi2>WITH ALL WINS x3</multi2>
+		</page>
+		<page id="3">
+			<multi1>1 #MULTIPLY3 AWARDS 1 FREE GAME</multi1>
+			<multi2>WITH ALL WINS x4</multi2>
+		</page>
+		<page id="4">
+			<multi1>1 #MULTIPLY4 AWARDS 1 FREE GAME</multi1>
+			<multi2>WITH ALL WINS x5</multi2>
+		</page>
+		<page id="5">
+			<multi1>1 #MULTIPLY5 AWARDS 1 FREE GAME</multi1>
+			<multi2>WITH ALL WINS x10</multi2>
+		</page>
+	</multiply>
+
+	<winplan>
+		<page id="1">
+			<line1>#WILD SUBTITUTES FOR ALL SYMBOLS EXCEPT #SCATTER</line1>
+			<line2>3 #SCATTER TRIGGERS RANDOM BONUS FEATURES.</line2>
+			<line3>3, 4, OR 5 #SCATTER REWARDS 10, 15 or 25.</line3>
+			<line4>FREE GAMES REPRECTIVELY.</line4>
+		</page>
+		<page id="3">
+			<line1>3 #SCATTER TRIGGERS RANDOM BONUS FEATURES.</line1>
+			<line2>PLAYERS CAN CHOOSE ONE OF THE TOW RANDOM OPTIONS:</line2>
+			<line3>BET AND LINES PLAYED ARE THE SAME AS THE GAME THAT STARTED THE FEATURE.</line3>
+		</page>
+		<page id="4">
+			<line1>FOX GIRL RANDOMLY AWARDS 5, 10, or 15 FREE GAMES</line1>
+			<line2>WITH RANDOM FEATURE MULTIPLIERS OF x2, x3, x4, x5 or x10.</line2>
+			<line3>#WILD AWARDS EXTRA FREE GAME WITH RANDOM FEATURE</line3>
+			<line4>MULTIPLIER OF x2, x3, x4, x5, or x10.</line4>
+		</page>
+		<page id="5">
+			<line1>PLAYERS ARE AWARDED A RANDOM PRIZE OF :</line1>
+			<line2>TOTAL BET x1</line2>
+			<line3>TOTAL BET x2</line3>
+			<line4>TOTAL BET x3</line4>
+			<line5>TOTAL BET x5</line5>
+			<line6>TOTAL BET x10</line6>
+			<line7>TOTAL BET x25</line7>
+		</page>
+		<page id="6">
+			<line1>ALL WINS LEFT TO RIGHT ONLY.</line1>
+			<line2>HIGHEST WIN ONLY ON EACH LINE.</line2>
+			<line3>ALL WINS ON LIT LINES ONLY ON EACH LINE.</line3>
+			<line4>WINS ON DIFFERENT LINES ARE ADDED.</line4>
+			<line5>SCATTER WINS ARE ADDED TO LINE WINS.</line5>
+			<line6>ALL WINS SHOWN IN CREDITS.</line6>
+			<line7>ALL WINS EXCEPT SCATTER MULTIPLIED BY CREDITS BET PER LINE.</line7>
+			<line8>SCATTER WINS MULTPLIED BY TOTAL CREDIT BET.</line8>
+		</page>
+	</winplan>
+
+</data>

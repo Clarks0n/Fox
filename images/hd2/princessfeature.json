@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "Feature FoxyPrincess_00.png",
+	"frame": {"x":470,"y":1,"w":230,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":427},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_01.png",
+	"frame": {"x":237,"y":1,"w":231,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":231,"h":427},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_02.png",
+	"frame": {"x":242,"y":430,"w":230,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":230,"h":424},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_03.png",
+	"frame": {"x":934,"y":425,"w":219,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":219,"h":422},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_04.png",
+	"frame": {"x":1374,"y":424,"w":218,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":218,"h":419},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_05.png",
+	"frame": {"x":1383,"y":1,"w":218,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":218,"h":416},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_06.png",
+	"frame": {"x":1594,"y":419,"w":217,"h":415},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":217,"h":415},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_07.png",
+	"frame": {"x":1603,"y":1,"w":216,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":216,"h":416},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_08.png",
+	"frame": {"x":1165,"y":1,"w":216,"h":421},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":216,"h":421},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_09.png",
+	"frame": {"x":1155,"y":425,"w":217,"h":421},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":217,"h":421},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_10.png",
+	"frame": {"x":710,"y":430,"w":222,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":222,"h":423},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_11.png",
+	"frame": {"x":934,"y":1,"w":229,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":229,"h":422},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_12.png",
+	"frame": {"x":474,"y":430,"w":234,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":234,"h":423},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_13.png",
+	"frame": {"x":1,"y":430,"w":239,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":239,"h":425},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_14.png",
+	"frame": {"x":1,"y":1,"w":234,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":234,"h":427},
+	"sourceSize": {"w":239,"h":428}
+},
+{
+	"filename": "Feature FoxyPrincess_15.png",
+	"frame": {"x":702,"y":1,"w":230,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":427},
+	"sourceSize": {"w":239,"h":428}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "princessfeature.png",
+	"format": "RGBA8888",
+	"size": {"w":1820,"h":856},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0b9cffca8f38d5e724396c64060459a4:fd8cf6f72ae9bb3c68b4c6690de598ba:3d072ec439b2489593eb50651f58ef3b$"
+}
+}

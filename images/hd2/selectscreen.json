@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "ball_base.png",
+	"frame": {"x":401,"y":359,"w":340,"h":340},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":9,"w":340,"h":340},
+	"sourceSize": {"w":358,"h":356}
+},
+{
+	"filename": "ball_freegames.png",
+	"frame": {"x":743,"y":359,"w":254,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":254},
+	"sourceSize": {"w":254,"h":254}
+},
+{
+	"filename": "ball_randomprize.png",
+	"frame": {"x":743,"y":615,"w":254,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":254},
+	"sourceSize": {"w":254,"h":254}
+},
+{
+	"filename": "frame.png",
+	"frame": {"x":1,"y":1,"w":557,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":7,"w":557,"h":299},
+	"sourceSize": {"w":568,"h":314}
+},
+{
+	"filename": "frame_in.png",
+	"frame": {"x":560,"y":1,"w":356,"h":356},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":356},
+	"sourceSize": {"w":356,"h":356}
+},
+{
+	"filename": "frame_out.png",
+	"frame": {"x":1,"y":302,"w":398,"h":398},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":398},
+	"sourceSize": {"w":398,"h":398}
+},
+{
+	"filename": "green_circle.png",
+	"frame": {"x":483,"y":701,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":27,"w":83,"h":83},
+	"sourceSize": {"w":126,"h":136}
+},
+{
+	"filename": "green_glow.png",
+	"frame": {"x":355,"y":702,"w":126,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":136},
+	"sourceSize": {"w":126,"h":136}
+},
+{
+	"filename": "ornament_bottom.png",
+	"frame": {"x":178,"y":702,"w":175,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":175,"h":101},
+	"sourceSize": {"w":184,"h":112}
+},
+{
+	"filename": "ornament_top.png",
+	"frame": {"x":1,"y":702,"w":175,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":175,"h":102},
+	"sourceSize": {"w":184,"h":114}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "selectscreen.png",
+	"format": "RGBA8888",
+	"size": {"w":998,"h":870},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c4138c909748a345e45dad78b8657bf6:93e1034f1194072ea56ea6f7377208be:bfdbc82479a785082cdc6a0aef4851c5$"
+}
+}

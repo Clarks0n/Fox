@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "foxgirl_base.png",
+	"frame": {"x":457,"y":1,"w":454,"h":667},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":454,"h":667},
+	"sourceSize": {"w":454,"h":667}
+},
+{
+	"filename": "foxgirl_glow.png",
+	"frame": {"x":913,"y":1,"w":486,"h":705},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":486,"h":705},
+	"sourceSize": {"w":487,"h":705}
+},
+{
+	"filename": "foxgirl_stand.png",
+	"frame": {"x":1,"y":1,"w":454,"h":506},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":454,"h":506},
+	"sourceSize": {"w":456,"h":549}
+},
+{
+	"filename": "foxgirl_winning.png",
+	"frame": {"x":1,"y":708,"w":1203,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1203,"h":720},
+	"sourceSize": {"w":1204,"h":720}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girlfox.png",
+	"format": "RGBA8888",
+	"size": {"w":1400,"h":1429},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee536fe757451d481f688c23723e6e7c:a05879ae2d021fa9d8f4df2574b02afe:f889902ed37ce6074fc517ef5b8b6b4e$"
+}
+}
